@@ -1,0 +1,57 @@
+table{
+    background-color: darksalmon;
+    height: 400px;
+    width: 300px;
+}
+th,td{
+    padding: 10px;
+}
+.head{
+    background-color: darkred;
+    color: white;
+    width: 30px;
+    height: 30px;
+    
+}
+tr,td{
+    text-align: center;
+}
+.text{
+    font-size: 13px;
+    color: blue;
+}
+.text2{
+    font-size: 40px;
+}
+.butt1{
+    background-color: darkred;
+    color: white;
+    border-radius: 7px;
+    border: none;
+}
+.cont1{
+    margin-top: 50px;
+}
+.head2{
+    background-color: greenyellow;
+    color: white;
+}
+.butt2{
+    background-color: greenyellow;
+    color: white;
+    border-radius: 7px;
+    border: none;
+}
+.head3{
+    background-color: palevioletred;
+    color: white;
+}
+.butt3{
+    background-color: palevioletred;
+    color: white;
+    border-radius: 7px;
+    border: none;
+}
+i{
+    font-size: 40px;
+}

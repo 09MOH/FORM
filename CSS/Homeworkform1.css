@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+.bdy{
+    background-color: crimson;
+    height: 400px;
+    width: 300px;
+    margin: auto;
+    border-radius: 5px;
+    margin-top: 100px;
+    text-align: center;
+
+}
+input{
+    border: 1px solid cornsilk;
+    width: 250px;
+    height: 40px;
+    background-color: crimson;
+    border-radius: 3px;
+    margin-top: 10px;
+
+}
+h1{
+    padding: 10px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 30px;
+}
+.butt{
+    background-color: fuchsia;
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+}
+.text1{
+    text-align: center;
+    color: palegreen;
+}
+.text2{
+    color: aliceblue;
+}

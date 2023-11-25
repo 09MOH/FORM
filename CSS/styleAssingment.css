@@ -1,0 +1,38 @@
+body{
+    background-color: deepskyblue;
+}
+.center{
+    background-color: darkslategrey;
+    border: 5px solid hotpink;
+    height: 400px;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    margin: auto;
+    margin-top: 30px;
+}
+input{
+    border: none;
+    width: 400px;
+    height: 40px;
+    border-bottom: 1px solid hotpink;
+    background-color: darkslategrey;
+    padding: 10px;
+}
+p{
+    color: white;
+    margin-bottom: -3px;
+}
+.but1{
+    background-color: hotpink;
+    border: 1px solid whitesmoke;
+    color: white;
+    width: 80px;
+    height: 30px;
+    margin-top: 40px;
+}
